@@ -1,6 +1,6 @@
 # TRABAJO_FINAL_SISTEMAS_DE_CONTROL2
 TRABAJO FINAL DE SISTEMAS DE CONTROL 2, SE REALIZA UN EL MODELADO DE UN SISTEMA DE CONTROL DE AMORTIGUAMIENTO DE UN AUTOMOVIL  Y SU SISTEMA DE CONTROL 
-Este trabajo esta realizado en Matlab, para ejecutarlo debes ejecutar los .fig
+Este trabajo esta realizado en Matlab, para ejecutarlo debes ejecutar los .m
 ![image](https://github.com/S3AN2/TRABAJO_FINAL_SISTEMAS_DE_CONTROL2/assets/99769699/7c4a3d9e-d597-42dd-9503-e3060c4c807b)
 
 ![image](https://github.com/S3AN2/TRABAJO_FINAL_SISTEMAS_DE_CONTROL2/assets/99769699/494a73ac-90d4-4824-9b43-54cc8d8bc0f2)
